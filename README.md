@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=1&section=header" width="100%"/>
-
-# `⚡ Adnan Temur Barcha`
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a2e,60:2d0a4e,100:0d1117&height=150&section=header&text=&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
 
