@@ -1,19 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=header&text=Adnan%20Temur%20Barcha&fontColor=e6edf3&fontSize=36&fontAlignY=40&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=1&section=header" width="100%"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
+# `⚡ Adnan Temur Barcha`
 
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_T_Barcha)
-[![PasaFile](https://img.shields.io/badge/PasaFile-10B981?style=for-the-badge&logo=webrtc&logoColor=white)](https://pasafile.nexylius.com)
-[![EqualStream](https://img.shields.io/badge/EqualStream-8B5CF6?style=for-the-badge&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
-[![ImagiForge](https://img.shields.io/badge/ImagiForge-F59E0B?style=for-the-badge&logo=openai&logoColor=white)](https://imag.nexylius.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/A_T_Barcha)
+[![PasaFile](https://img.shields.io/badge/PasaFile-00FFC8?style=flat-square&logo=webrtc&logoColor=black)](https://pasafile.nexylius.com)
+[![EqualStream](https://img.shields.io/badge/EqualStream-BD00FF?style=flat-square&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
+[![ImagiForge](https://img.shields.io/badge/ImagiForge-FF2D95?style=flat-square&logo=openai&logoColor=white)](https://imag.nexylius.com)
 
 </div>
 
@@ -102,12 +100,12 @@ const adnan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdnanTemur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTemur&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdnanTemur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D95&icon_color=00FFC8&text_color=c9d1d9&ring_color=BD00FF" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTemur&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTemur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTemur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D95&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
@@ -129,12 +127,12 @@ const adnan = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=FF2D95&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 <br/><br/>
 
-*"Pragmatic code beats perfect architecture."*
+*`// pragmatic code beats perfect architecture`*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:FF2D95,100:00FFC8&height=100&section=footer" width="100%"/>
 
 </div>
