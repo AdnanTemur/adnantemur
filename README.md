@@ -77,7 +77,7 @@ const adnan = {
 - **[EqualStream](https://equalstream.nexylius.com)** — Browser-based audio streaming with equalization & visualization
 - **[ImagiForge](https://imag.nexylius.com)** — Free AI image generation powered by Stable Diffusion XL
 - **NexPlayer** — Cross-platform C++17/Qt6/QML media player with FFmpeg
-- **PasaFile** — P2P file sharing via WebRTC + Laravel Reverb
+- **[PasaFile](https://pasafile.nexylius.com)** — P2P file sharing via WebRTC + Laravel Reverb
 
 ---
 
