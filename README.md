@@ -1,5 +1,13 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" />
+</picture>
+
+<table><tr><td align="center" style="border: none;">
+
+<br/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+Full+Stack+Developer;%24+Laravel+Artisan;%24+Building+Cool+Stuff" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
@@ -7,6 +15,10 @@
 [![PasaFile](https://img.shields.io/badge/PasaFile-00FFC8?style=flat-square&logo=webrtc&logoColor=black)](https://pasafile.nexylius.com)
 [![EqualStream](https://img.shields.io/badge/EqualStream-BD00FF?style=flat-square&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
 [![ImagiForge](https://img.shields.io/badge/ImagiForge-FF2D95?style=flat-square&logo=openai&logoColor=white)](https://imag.nexylius.com)
+
+<br/>
+
+</td></tr></table>
 
 </div>
 
@@ -122,12 +134,12 @@ const adnan = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=FF2D95&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<table><tr><td align="center" style="border: none;">
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 *`// pragmatic code beats perfect architecture`*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:FF2D95,100:00FFC8&height=100&section=footer" width="100%"/>
+</td></tr></table>
 
 </div>
