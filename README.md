@@ -1,12 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" />
-</picture>
-
-<table><tr><td align="center" style="border: none;">
-
-<br/>
+<img src="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+Full+Stack+Developer;%24+Laravel+Artisan;%24+Building+Cool+Stuff" alt="Typing SVG" /></a>
 
@@ -15,10 +9,6 @@
 [![PasaFile](https://img.shields.io/badge/PasaFile-00FFC8?style=flat-square&logo=webrtc&logoColor=black)](https://pasafile.nexylius.com)
 [![EqualStream](https://img.shields.io/badge/EqualStream-BD00FF?style=flat-square&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
 [![ImagiForge](https://img.shields.io/badge/ImagiForge-FF2D95?style=flat-square&logo=openai&logoColor=white)](https://imag.nexylius.com)
-
-<br/>
-
-</td></tr></table>
 
 </div>
 
@@ -118,28 +108,8 @@ const adnan = {
 
 ---
 
-### 🐍 Contribution Graph
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<table><tr><td align="center" style="border: none;">
-
-<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/>
-
-*`// pragmatic code beats perfect architecture`*
-
-</td></tr></table>
+<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/> &nbsp; *`// pragmatic code beats perfect architecture`*
 
 </div>
