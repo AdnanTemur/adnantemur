@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" width="100%"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+Full+Stack+Developer;%24+Laravel+Artisan;%24+Building+Cool+Stuff" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
@@ -107,6 +105,18 @@ const adnan = {
 </div>
 
 ---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 <div align="center">
 
