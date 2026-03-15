@@ -28,7 +28,7 @@ const adnan = {
 
 ---
 
-### Tech Arsenal
+### 🔹Tech Arsenal
 
 <div align="center">
 
@@ -72,7 +72,7 @@ const adnan = {
 
 ---
 
-### Side Projects
+### 🔹Side Projects
 
 - **[EqualStream](https://equalstream.nexylius.com)** — Browser-based audio streaming with equalization & visualization
 - **[ImagiForge](https://imag.nexylius.com)** — Free AI image generation powered by Stable Diffusion XL
@@ -81,7 +81,7 @@ const adnan = {
 
 ---
 
-### Beyond Code
+### 🔹Beyond Code
 
 <div align="center">
 
@@ -91,7 +91,7 @@ const adnan = {
 
 ---
 
-### GitHub Stats
+### 🔹GitHub Stats
 
 <div align="center">
 
