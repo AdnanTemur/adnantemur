@@ -121,6 +121,6 @@ const adnan = {
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/> &nbsp; 
-<img src="https://img.shields.io/badge/_%2F%2F_pragmatic_code_beats_perfect_architecture-8b949e?style=flat-square&labelColor=161b22" alt="quote"/>
+<p><code>// pragmatic code beats perfect architecture</code></p>
 
 </div>
