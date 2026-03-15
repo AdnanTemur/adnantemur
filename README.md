@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Adnan%20Temur%20Barcha&fontColor=e6edf3&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20•%20Gilgit-Baltistan%2C%20Pakistan&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=header&text=Adnan%20Temur%20Barcha&fontColor=e6edf3&fontSize=36&fontAlignY=40&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_T_Barcha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-adnan.vercel.app)
+[![PasaFile](https://img.shields.io/badge/PasaFile-10B981?style=for-the-badge&logo=webrtc&logoColor=white)](https://pasafile.nexylius.com)
 [![EqualStream](https://img.shields.io/badge/EqualStream-8B5CF6?style=for-the-badge&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
 [![ImagiForge](https://img.shields.io/badge/ImagiForge-F59E0B?style=for-the-badge&logo=openai&logoColor=white)](https://imag.nexylius.com)
 
