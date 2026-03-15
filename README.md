@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+Full+Stack+Developer;%24+Laravel+Artisan;%24+Building+Cool+Stuff" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/A_T_Barcha)
