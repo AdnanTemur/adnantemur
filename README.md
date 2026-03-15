@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Adnan%20Temur%20Barcha&fontColor=e6edf3&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20•%20Gilgit-Baltistan%2C%20Pakistan&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%7C+Laravel+Artisan+%7C+GIS+Engineer;Building+Government+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%7C+Laravel+Artisan;Building+Scalable+Systems+%26+Creative+Products" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,11 +24,10 @@
 ```js
 const adnan = {
     location: "Gilgit-Baltistan, Pakistan 🏔️",
-    roles: ["Full Stack Developer", "GIS Engineer", "Founder"],
+    roles: ["Full Stack Developer", "Creative Builder"],
     currently: {
-        building: "Government MIS platforms (iPADS, GBTS, BEEGB)",
-        exploring: "Cross-platform media players with C++/Qt/FFmpeg",
-        running: ["Astraj — Tech Education Institute", "Meheritance — Handcrafted Products"]
+        building: "Full-stack web platforms & creative products",
+        exploring: "Cross-platform media players with C++/Qt/FFmpeg"
     },
     philosophy: "Ship pragmatic solutions. Skip the ceremony."
 };
@@ -80,41 +79,18 @@ const adnan = {
 
 ---
 
-### 🏗️ What I Build
+### 🚀 Side Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏛️ Government & Public Sector**
-- **iPADS** — Planning & Development MIS for KP/GB with GIS integration, budget management, scheme workflows (PC-1→PC-5), and reappropriation systems
-- **GBTS** — Computer-based testing portal for Gilgit-Baltistan Testing Service with merit list generation
-- **BEEGB** — Board of Elementary Education GB dashboard with 200k+ record optimization
-- **Biodiversity Portal** — Species tracking with PostGIS, OpenLayers, GeoServer, and chunked uploads
-
-</td>
-<td width="50%" valign="top">
-
-**🚀 Products & Side Projects**
 - **[EqualStream](https://equalstream.nexylius.com)** — Browser-based audio streaming with equalization & visualization
 - **[ImagiForge](https://imag.nexylius.com)** — Free AI image generation powered by Stable Diffusion XL
 - **NexPlayer** — Cross-platform C++17/Qt6/QML media player with FFmpeg
 - **PasaFile** — P2P file sharing via WebRTC + Laravel Reverb
-- **Meheritance** — E-commerce for handcrafted products from Gilgit-Baltistan
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🏔️ Beyond Code
 
 <div align="center">
-
-🎓 **Founder @ [Astraj](https://astraj.com)** — Technology education institute in Gilgit-Baltistan
-
-🎨 **Meheritance** — Preserving & promoting handcrafted artisan products from the mountains
 
 🎬 Video Editing · 🎵 Music Production · 🗺️ GIS & Mapping Enthusiast
 
