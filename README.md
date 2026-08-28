@@ -111,7 +111,7 @@ Everything below is live and in use — not a demo folder.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTemurBarcha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e" height="170" alt="Contribution streak"/>
+<img src="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/streak.svg" height="170" alt="Contribution streak"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/github-snake-dark.svg" />

@@ -17,6 +17,32 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Snapshot the streak card
+        # The upstream streak service is intermittently unavailable — one hard
+        # failure in five consecutive requests when this was written — which is
+        # what makes the card render broken on the profile. Fetching it here and
+        # publishing it alongside the snake means the profile is served a file
+        # from this repo, which cannot 404 or rate-limit.
+        #
+        # If every retry fails the job fails, and the output branch simply keeps
+        # its last-good copy: ghaction-github-pages only publishes on success, so
+        # a bad day upstream leaves yesterday's card up rather than a hole.
+        run: |
+          set -e
+          url="https://streak-stats.demolab.com/?user=AdnanTemurBarcha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e"
+          for attempt in 1 2 3 4 5; do
+            if curl -fsS --max-time 30 -o dist/streak.svg "$url"; then break; fi
+            echo "attempt $attempt failed; retrying in 10s"
+            sleep 10
+          done
+          # A 200 is not enough — the service answers 200 with an error card when
+          # it cannot resolve the user, so assert the real data is present.
+          test -s dist/streak.svg \
+            || { echo "::error::streak card could not be fetched after 5 attempts"; exit 1; }
+          grep -q 'Total Contributions' dist/streak.svg \
+            || { echo "::error::streak card fetched but carries no data"; exit 1; }
+          echo "streak card snapshotted ($(wc -c < dist/streak.svg) bytes)"
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
