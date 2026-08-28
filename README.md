@@ -131,7 +131,7 @@ Everything below is live and in use — not a demo folder.
 
 <div align="center">
 
-🎬 Video Editing · 🎵 Music Production · 🗺️ GIS & Mapping · 🏔️ Karakoram
+📷 Photography · 🎥 Videography · 🎵 Music Production · 🗺️ GIS & Mapping
 
 </div>
 
