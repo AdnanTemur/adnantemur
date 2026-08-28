@@ -111,7 +111,11 @@ Everything below is live and in use — not a demo folder.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/streak.svg" height="170" alt="Contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/contributions-light.svg" />
+  <img alt="Contribution stats" src="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/contributions-dark.svg" height="170" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/github-snake-dark.svg" />

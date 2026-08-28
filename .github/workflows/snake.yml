@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -9,6 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        # Required for scripts/contribution_card.py to exist. The workflow had no
+        # checkout before, because the snake action needs nothing from the repo.
+        uses: actions/checkout@v4
+
+      - name: Build the contribution card
+        # Deliberately runs BEFORE the snake step. Platane/snk is a Docker action,
+        # so it runs as root and leaves dist/ root-owned — a later step running as
+        # `runner` then cannot write there, which showed up as the deeply
+        # unhelpful "curl: (23) Failure writing output to destination". Creating
+        # dist/ here first makes it runner-owned; root can still write into it.
+        run: python3 scripts/contribution_card.py --user AdnanTemurBarcha --since 2019 --out dist
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -17,31 +30,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Snapshot the streak card
-        # The upstream streak service is intermittently unavailable — one hard
-        # failure in five consecutive requests when this was written — which is
-        # what makes the card render broken on the profile. Fetching it here and
-        # publishing it alongside the snake means the profile is served a file
-        # from this repo, which cannot 404 or rate-limit.
-        #
-        # If every retry fails the job fails, and the output branch simply keeps
-        # its last-good copy: ghaction-github-pages only publishes on success, so
-        # a bad day upstream leaves yesterday's card up rather than a hole.
+      - name: Verify the published set
+        # dist/ is about to replace the output branch wholesale. Publishing a
+        # partial set would leave broken images on the profile, so check first.
         run: |
           set -e
-          url="https://streak-stats.demolab.com/?user=AdnanTemurBarcha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e"
-          for attempt in 1 2 3 4 5; do
-            if curl -fsS --max-time 30 -o dist/streak.svg "$url"; then break; fi
-            echo "attempt $attempt failed; retrying in 10s"
-            sleep 10
+          for f in contributions-dark.svg contributions-light.svg \
+                   github-snake.svg github-snake-dark.svg; do
+            test -s "dist/$f" || { echo "::error::dist/$f missing or empty"; exit 1; }
           done
-          # A 200 is not enough — the service answers 200 with an error card when
-          # it cannot resolve the user, so assert the real data is present.
-          test -s dist/streak.svg \
-            || { echo "::error::streak card could not be fetched after 5 attempts"; exit 1; }
-          grep -q 'Total Contributions' dist/streak.svg \
-            || { echo "::error::streak card fetched but carries no data"; exit 1; }
-          echo "streak card snapshotted ($(wc -c < dist/streak.svg) bytes)"
+          ls -la dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
