@@ -1,12 +1,17 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+Full+Stack+Developer;%24+Laravel+Artisan;%24+Building+Cool+Stuff" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img alt="Adnan Temur Barcha — Software Engineer, Gilgit-Baltistan, Pakistan" src="./assets/banner-dark.svg" width="100%" />
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-temur-barcha)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/A_T_Barcha)
-[![PasaFile](https://img.shields.io/badge/PasaFile-00FFC8?style=flat-square&logo=webrtc&logoColor=black)](https://pasafile.nexylius.com)
-[![EqualStream](https://img.shields.io/badge/EqualStream-BD00FF?style=flat-square&logo=soundcloud&logoColor=white)](https://equalstream.nexylius.com)
-[![ImagiForge](https://img.shields.io/badge/ImagiForge-FF2D95?style=flat-square&logo=openai&logoColor=white)](https://imag.nexylius.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=560&height=45&lines=%24+Geospatial+systems+%26+e-governance;%24+Laravel+%C2%B7+Next.js+%C2%B7+Qt%2FC%2B%2B;%24+Shipping+products+under+Nexylius" alt="Typing SVG" /></a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=flat-square&logo=aboutdotme&logoColor=black)](https://adnantemurbarcha.nexylius.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantemurbarcha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdnanTemurBarcha)
+[![Nexylius](https://img.shields.io/badge/Nexylius-00FFC8?style=flat-square&logo=rocket&logoColor=black)](https://nexylius.com)
 
 </div>
 
@@ -16,19 +21,49 @@
 
 ```js
 const adnan = {
-    location: "Gilgit-Baltistan, Pakistan 🏔️",
-    roles: ["Full Stack Developer", "Creative Builder"],
-    currently: {
-        building: "Full-stack web platforms & creative products",
-        exploring: "Cross-platform media players with C++/Qt/FFmpeg"
+    location:  "Gilgit-Baltistan, Pakistan 🏔️",
+    role:      "Software Engineer @ Karakoram International University",
+    cofounder: { company: "Astraj Pvt. Ltd.", since: 2025, registered: ["SECP", "PSEB"] },
+    building: {
+        work:    ["e-governance & budget automation", "GIS / biodiversity platforms"],
+        product: "browser extensions, desktop apps and web tools under Nexylius"
     },
+    exploring:  "cross-platform media pipelines with C++17 / Qt 6 / FFmpeg",
     philosophy: "Ship pragmatic solutions. Skip the ceremony."
 };
 ```
 
 ---
 
-### 🔹Tech Arsenal
+### 🔹 Products
+
+Everything below is live and in use — not a demo folder.
+
+| | What it does | Links |
+|---|---|---|
+| **Snipwise** | Screenshot, annotate and export straight to PDF, in the browser | [site](https://snipwise.nexylius.com) · [store](https://chromewebstore.google.com/detail/snipwise-screenshot-pdf/noaambcmjanlemlfmpokannnhcjofclm) · [repo](https://github.com/AdnanTemurBarcha/snipwise) |
+| **SwiftCheck** | Connection speed test that runs as a Chrome extension | [site](https://swiftcheck.nexylius.com) · [store](https://chromewebstore.google.com/detail/swiftcheck-%E2%80%94-speed-test/aljdoacllmnpjfkmakabieikmekjpfnd) · [repo](https://github.com/AdnanTemurBarcha/swift-check) |
+| **PostSnap** | Turns screenshots into clean, shareable posts | [site](https://postsnap.nexylius.com) · [store](https://chromewebstore.google.com/detail/postsnap-beautiful-screen/oablkgadbenbflpbnojhkkjlpmpofpoa) · [repo](https://github.com/AdnanTemurBarcha/postsnap) |
+| **PasaFile** | Peer-to-peer file transfer over WebRTC — the bytes never touch a server | [site](https://pasafile.nexylius.com) |
+| **EqualStream** | Browser audio streaming with live equalisation and visualisation | [site](https://equalstream.nexylius.com) |
+| **ImagiForge** | Free AI image generation on Stable Diffusion XL, desktop and mobile | [site](https://imag.nexylius.com) · [desktop](https://github.com/AdnanTemurBarcha/imagiforge-desktop) · [mobile](https://github.com/AdnanTemurBarcha/imagiforge-mobile) |
+| **NexPlayer** | Cross-platform media player in C++17 / Qt 6 / QML with FFmpeg | [repo](https://github.com/AdnanTemurBarcha/nexplayer-v1) |
+| **LocalMind** | Desktop AI assistant — no subscription, no API key | [repo](https://github.com/AdnanTemurBarcha/localmind) |
+| **Grambot** | Instagram automation built on Python and Playwright | [repo](https://github.com/AdnanTemurBarcha/grambot) |
+
+---
+
+### 🔹 Professional Work
+
+| Project | Domain |
+|---|---|
+| **iPADS** | Public-sector budgeting and ADP planning — workflow automation, financial validation, real-time notifications. Deployed inside government; source not public. |
+| **HRE Biodiversity Portal** | GIS platform for biodiversity and environmental data, on PostGIS + GeoServer with OpenLayers rendering. |
+| **GBTS** | Online examination platform with secure assessment workflows and Safe Exam Browser integration. |
+
+---
+
+### 🔹 Tech Arsenal
 
 <div align="center">
 
@@ -45,25 +80,25 @@ const adnan = {
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 
 **GIS & Data**
 
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![GeoServer](https://img.shields.io/badge/GeoServer-5382A1?style=flat-square&logo=geoserver&logoColor=white)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps & Tools**
+**Infra & Media**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -72,55 +107,34 @@ const adnan = {
 
 ---
 
-### 🔹Side Projects
-
-- **[EqualStream](https://equalstream.nexylius.com)** — Browser-based audio streaming with equalization & visualization
-- **[ImagiForge](https://imag.nexylius.com)** — Free AI image generation powered by Stable Diffusion XL
-- **NexPlayer** — Cross-platform C++17/Qt6/QML media player with FFmpeg
-- **[PasaFile](https://pasafile.nexylius.com)** — P2P file sharing via WebRTC + Laravel Reverb
-
----
-
-### 🔹Beyond Code
+### 🔹 Activity
 
 <div align="center">
 
-🎬 Video Editing · 🎵 Music Production · 🗺️ GIS & Mapping Enthusiast
-
-</div>
-
----
-
-### 🔹GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdnanTemur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D95&icon_color=00FFC8&text_color=c9d1d9&ring_color=BD00FF" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTemur&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTemur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D95&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTemurBarcha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF2D95&fire=00FFC8&currStreakLabel=BD00FF&sideLabels=c9d1d9&dates=8b949e" height="170" alt="Contribution streak"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdnanTemur/AdnanTemur/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/github-snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/AdnanTemurBarcha/adnantemurbarcha/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
+---
+
+### 🔹 Beyond Code
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AdnanTemur&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/> &nbsp; 
+🎬 Video Editing · 🎵 Music Production · 🗺️ GIS & Mapping · 🏔️ Karakoram
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AdnanTemurBarcha&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
 <p><code>// pragmatic code beats perfect architecture</code></p>
 
 </div>
