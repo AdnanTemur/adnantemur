@@ -47,7 +47,7 @@ Everything below is live and in use — not a demo folder.
 | **PasaFile** | Peer-to-peer file transfer over WebRTC — the bytes never touch a server | [site](https://pasafile.nexylius.com) |
 | **EqualStream** | Browser audio streaming with live equalisation and visualisation | [site](https://equalstream.nexylius.com) |
 | **High Bias** | Browser audio run through a modelled 1970s cassette deck — tape path, 11-band EQ, 12-slot effects rack | [site](https://highbias.nexylius.com) |
-| **ImagiForge** | Free AI image generation on Stable Diffusion XL, desktop and mobile | [site](https://imag.nexylius.com) · [desktop](https://github.com/AdnanTemurBarcha/imagiforge-desktop) · [mobile](https://github.com/AdnanTemurBarcha/imagiforge-mobile) |
+| **ImagiForge** | Free AI image generation on Stable Diffusion XL — no login, no credits | [site](https://imag.nexylius.com) |
 | **VieFlow** | Blood donation platform — matches donors to nearby requests, with hospital inventory | [site](https://vieflow.nexylius.com) |
 | **NexPlayer** | Cross-platform media player in C++17 / Qt 6 / QML with FFmpeg | [repo](https://github.com/AdnanTemurBarcha/nexplayer-v1) |
 | **LocalMind** | Desktop AI assistant — no subscription, no API key | [repo](https://github.com/AdnanTemurBarcha/localmind) |
