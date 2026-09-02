@@ -28,7 +28,7 @@ const adnan = {
         work:    ["e-governance & budget automation", "GIS / biodiversity platforms"],
         product: "browser extensions, desktop apps and web tools under Nexylius"
     },
-    exploring:  "real-time audio DSP in the browser, and media pipelines in C++17 / Qt 6 / FFmpeg",
+    exploring:  "real-time audio DSP in the browser, and media & image pipelines in C++17 / Qt 6 — FFmpeg, libvips",
     philosophy: "Ship pragmatic solutions. Skip the ceremony."
 };
 ```
@@ -50,6 +50,7 @@ Everything below is live and in use — not a demo folder.
 | **ImagiForge** | Free AI image generation on Stable Diffusion XL — no login, no credits | [site](https://imagiforge.nexylius.com) |
 | **VieFlow** | Blood donation platform — matches donors to nearby requests, with hospital inventory | [site](https://vieflow.nexylius.com) |
 | **NexPlayer** | Cross-platform media player in C++17 / Qt 6 / QML with FFmpeg | [repo](https://github.com/AdnanTemurBarcha/nexplayer-v1) |
+| **Skera** | Image viewer for full-resolution photos and camera RAW — no import, no catalog | [site](https://skera.nexylius.com) · [releases](https://github.com/AdnanTemurBarcha/skera-releases) |
 | **LocalMind** | Desktop AI assistant — no subscription, no API key | [repo](https://github.com/AdnanTemurBarcha/localmind) |
 | **Grambot** | Instagram automation built on Python and Playwright | [repo](https://github.com/AdnanTemurBarcha/grambot) |
 
