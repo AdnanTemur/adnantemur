@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-label="2118 total contributions, 5 day current streak, 11 day longest streak">
+<rect width="560" height="200" rx="6" fill="#ffffff"/>
+<line x1="0" y1="0" x2="0" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="40" y1="0" x2="40" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="80" y1="0" x2="80" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="120" y1="0" x2="120" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="160" y1="0" x2="160" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="200" y1="0" x2="200" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="280" y1="0" x2="280" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="320" y1="0" x2="320" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="400" y1="0" x2="400" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="440" y1="0" x2="440" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="480" y1="0" x2="480" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="520" y1="0" x2="520" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="560" y1="0" x2="560" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="0" x2="560" y2="0" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="40" x2="560" y2="40" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="80" x2="560" y2="80" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="120" x2="560" y2="120" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="160" x2="560" y2="160" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="0" y1="200" x2="560" y2="200" stroke="#f0f4f8" stroke-width="1"/>
+<line x1="187" y1="34" x2="187" y2="170" stroke="#d0d7de" stroke-width="1"/>
+<line x1="373" y1="34" x2="373" y2="170" stroke="#d0d7de" stroke-width="1"/>
+<text x="93" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="38" font-weight="700" fill="#0E7C90">2,118</text>
+<text x="93" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#0d1117">Total Contributions</text>
+<text x="93" y="140" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#57606a">Jul 24, 2019 – Sep 9, 2026</text>
+<text x="280" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="38" font-weight="700" fill="#C2185B">5</text>
+<text x="280" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#0d1117">Current Streak</text>
+<text x="280" y="140" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#57606a">Sep 5, 2026 – Sep 9, 2026</text>
+<text x="467" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="38" font-weight="700" fill="#7C3AED">11</text>
+<text x="467" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#0d1117">Longest Streak</text>
+<text x="467" y="140" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#57606a">Feb 8, 2024 – Feb 18, 2024</text>
+<text x="280" y="186" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#57606a" opacity="0.7">generated from public GitHub data · no third-party service</text>
+</svg>
